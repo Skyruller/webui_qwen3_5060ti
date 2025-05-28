@@ -11,7 +11,7 @@
 - `Qwen2.5-Coder-1.5B`, `Qwen2.5-Coder-3B-Instruct`
 - `transformers`, `xformers`, `flash-attn` — установлены вручную
 - Запуск через `text-generation-webui`
-- Windows 11, CUDA 12.8, Python 3.12, torch 2.7.0 + cu128
+- Windows 10, CUDA 12.8, Python 3.12, torch 2.7.0 + cu128
 - WebUI запуск: `python server.py --chat --model Qwen3-4B`
 
 ---
@@ -43,7 +43,7 @@ conda activate textgen
 3. Клонировать WebUI и перейти в папку:
 
 ```bash
-git clone https://github.com/oobabooga/text-generation-webui.git
+git clone https://github.com/oobabooga/text-generation-webui
 cd text-generation-webui
 ```
 
