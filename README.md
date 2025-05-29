@@ -43,7 +43,7 @@ conda activate textgen
 3. Клонировать WebUI и перейти в папку:
 
 ```bash
-git clone https://github.com/oobabooga/text-generation-webui
+git clone https://github.com/nan0bug00/text-generation-webui.git
 cd text-generation-webui
 ```
 
